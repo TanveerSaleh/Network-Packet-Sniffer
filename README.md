@@ -15,5 +15,6 @@ A network packet sniffer intercepts and logs network traffic, capturing packets 
 During a recent project, I delved into Python and deepened my knowledge of packet sniffers. The experience has been enlightening, providing valuable insights into their functionality. Your feedback is crucial to me, so please feel free to reach out with any tool-related concerns. Your understanding and support are greatly appreciated. Thank you! 
 
 
-#Networking #Python #Scapy #NetworkSecurity #DataAnalysis 
-#TanveerSalehgithub #TanveerSaleh #TanveerSaleh #TharMirwah
+#Networking #Python #Scapy #NetworkSecurity #DataAnalysis #NetworkPacketSniffer
+#Sniffer #PacketSniffer
+
